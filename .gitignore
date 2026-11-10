@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.deepeval*
+.pytest_cache/
+
+# IDE / OS
+.idea/
+.DS_Store
+
+# Local Claude Code settings
+.claude/
